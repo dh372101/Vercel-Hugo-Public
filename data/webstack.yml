@@ -1,0 +1,419 @@
+---
+- taxonomy: 常用网站
+  icon: far fa-star
+  links: 
+    - title: GitHub
+      url: https://github.com/
+      logo: https://api.iowen.cn/favicon/github.com.png
+    - title: HelloGithub
+      url: https://hellogithub.com/
+      logo: https://api.iowen.cn/favicon/hellogithub.com.png
+    - title: Vercel
+      url: https://www.vercel.com/
+      logo: https://api.iowen.cn/favicon/www.vercel.com.png
+    - title: Greasyfork
+      url: https://greasyfork.org/zh-CN/
+      logo: https://greasyfork.org/vite/assets/blacklogo96-e0c2c761.png
+    - title: Ping Test
+      url: http://ping.pe/
+      logo: https://api.iowen.cn/favicon/ping.com.png
+      
+- taxonomy: 云服务商
+  icon: fab fa-cloudversify
+  links: 
+    - title: 腾讯云
+      url: https://cloud.tencent.com/login
+      logo: https://api.iowen.cn/favicon/cloud.tencent.com.png
+    - title: 阿里云
+      url: https://account.aliyun.com/login/login.htm
+      logo: https://api.iowen.cn/favicon/www.aliyun.com.png
+    - title: UCloud
+      url: https://passport.ucloud.cn/#login
+      logo: https://api.iowen.cn/favicon/www.ucloud.cn.png
+    - title: 天翼云
+      url: https://www.ctyun.cn/h5/auth/"
+      logo: https://api.iowen.cn/favicon/www.ctyun.cn.png
+    - title: 华为云
+      url: https://auth.huaweicloud.com/authui/login.html#/login
+      logo: https://api.iowen.cn/favicon/www.huawei.com.png
+    - title: 京东云 
+      url: https://login.jdcloud.com/
+      logo: https://api.iowen.cn/favicon/www.jdcloud.com.png
+    - title: 又拍云 
+      url: https://console.upyun.com/login/
+      logo: https://api.iowen.cn/favicon/upyun.com/.png
+    - title: 七牛云
+      url: https://portal.qiniu.com/signin
+      logo: https://api.iowen.cn/favicon/qiniu.com.png
+    - title: Vultr
+      url: https://my.vultr.com/
+      logo: https://api.iowen.cn/favicon/www.vultr.com.png
+
+- taxonomy: 域名解析
+  icon: fab fa-internet-explorer
+  links: 
+    - title: DNSPod
+      url: https://www.dnspod.cn/login
+      logo: https://api.iowen.cn/favicon/www.dnspod.cn.png
+    - title: NameSilo
+      url: https://www.namesilo.com/login
+      logo: https://api.iowen.cn/favicon/www.namesilo.com.png
+    - title: Cloudflare
+      url: https://dash.cloudflare.com/login
+      logo: https://api.iowen.cn/favicon/cloudflare.com.png
+
+- taxonomy: 翻译工具
+  icon: fas fa-language
+  links:   
+    - title: DeepL
+      url: https://www.deepl.com/zh/translator
+      logo: https://static.deepl.com/img/logo/DeepL_Logo_darkBlue_v2.svg
+    - title: 沪江小D
+      url: https://dict.hjenglish.com/app/trans
+      logo: https://res.hjfile.cn/tool/dict.hjenglish.com/img/logo@2x-e5fcc.png
+    - title: 有道翻译
+      url: http://fanyi.youdao.com/
+      logo: https://api.iowen.cn/favicon/youdao.com.png
+    - title: Google翻译
+      url: https://translate.google.cn/
+      logo: https://api.iowen.cn/favicon/translate.google.cn.png
+    - title: 腾讯翻译君
+      url: https://fanyi.qq.com/
+      logo: https://api.iowen.cn/favicon/fanyi.qq.com.png
+    - title: 翻译狗
+      url: http://www.fanyigou.com/trans/login.html
+      logo: https://api.iowen.cn/favicon/www.fanyigou.com.png
+    - title: weblio
+      url: https://www.weblio.jp/
+      logo: https://api.iowen.cn/favicon/www.weblio.jp.png
+    - title: 語源由来辞典
+      url: https://gogen-yurai.jp/
+      logo: https://api.iowen.cn/favicon/gogen-yurai.jp.png
+    - title: 日本語文章校正
+      url: https://so-zou.jp/web-app/text/proofreading/
+      logo: https://api.iowen.cn/favicon/so-zou.jp.png
+    - title: NLT检索
+      url: https://tsukubawebcorpus.jp/search/
+      logo: https://api.iowen.cn/favicon/tsukubawebcorpus.jp.png
+    - title: 用例.jp
+      url: http://yourei.jp/
+      logo: https://api.iowen.cn/favicon/yourei.jp.png
+
+- taxonomy: 信息安全
+  icon: fas fa-shield-alt
+  links:  
+    - title: 安全内参
+      url: https://www.secrss.com/
+      logo: https://api.iowen.cn/favicon/www.secrss.com.png  
+    - title: FreeBuf
+      url: https://www.freebuf.com/
+      logo: freebuf.png
+    - title: Gartner
+      url: https://gartner.com/
+      logo: https://api.iowen.cn/favicon/gartner.com.png  
+    - title: 每日安全资讯
+      url: https://vulntotal-team.github.io/yarb/today.html
+      logo: news.png
+    - title: 奇安信漏洞库
+      url: https://ti.qianxin.com/
+      logo: https://ti.qianxin.com/microapps/portal-ti/static/img/sandbox_s.5c6c5a9.png
+    - title: 阿里云漏洞库
+      url: https://avd.aliyun.com/
+      logo: https://api.iowen.cn/favicon/avd.aliyun.com.png  
+    - title: CVE漏洞库
+      url: https://cve.mitre.org/cve/search_cve_list.html
+      logo: cve.png
+    - title: NVD漏洞库
+      url: https://nvd.nist.gov/vuln/search
+      logo: https://api.iowen.cn/favicon/nist.gov.png  
+    - title: 标准网
+      url: https://www.biaozhun.org/
+      logo: https://api.iowen.cn/favicon/www.biaozhun.org.png  
+    - title: 中华人民共和国工业和信息化部
+      url: https://wap.miit.gov.cn/index.html
+      logo: zf.png  
+    - title: 中央网络安全和信息化委员会办公室
+      url: http://www.cac.gov.cn/
+      logo: zf.png    
+    - title: 全国信息安全标准化技术委员会
+      url: https://www.tc260.org.cn/
+      logo: zf.png    
+    - title: 信息通信管理局
+      url: https://wap.miit.gov.cn/jgsj/xgj/index.html
+      logo: zf.png   
+    - title: 中国网络安全审查技术与认证中心
+      url: https://www.isccc.gov.cn/
+      logo: zf.png    
+
+- taxonomy: 学习提升
+  icon: fas fa-user-graduate
+  links:  
+    - title: 慕课网
+      url: https://www.imooc.com/
+      logo: https://api.iowen.cn/favicon/www.imooc.com.png 
+    - title: doyoudo
+      url: http://doyoudo.com/
+      logo: https://api.iowen.cn/favicon/doyoudo.com.png 
+    - title: Udemy
+      url: https://www.udemy.com/
+      logo: https://api.iowen.cn/favicon/www.udemy.com.png 
+    - title: 领英学习
+      url: https://www.linkedin.com/learning/
+      logo: https://api.iowen.cn/favicon/www.linkedin.com.png  
+    - title: 菜鸟教程
+      url: https://www.runoob.com/
+      logo: https://api.iowen.cn/favicon/www.runoob.com.png
+    - title: W3School
+      url: https://www.w3school.com.cn/
+      logo: https://api.iowen.cn/favicon/www.w3school.com.cn.png
+    - title: 书栈网
+      url: https://www.bookstack.cn/
+      logo: https://api.iowen.cn/favicon/www.bookstack.cn.png
+    - title: CISSP笔记
+      url: https://firmianay.gitbook.io/cissp-notes/
+      logo: https://app.gitbook.com/public/images/icon-512.png
+    - title: ISC2
+      url: https://www.isc2.org/
+      logo: https://api.iowen.cn/favicon/www.isc2.org.png  
+    - title: ISACA
+      url: https://www.isaca.org/
+      logo: https://api.iowen.cn/favicon/www.isaca.org.png  
+    - title: Comptia
+      url: https://www.comptia.org/
+      logo: https://api.iowen.cn/favicon/www.comptia.org.png  
+    - title: CertMike
+      url: https://www.certmike.com/
+      logo: https://api.iowen.cn/favicon/www.certmike.com.png  
+
+- taxonomy: 办公工具
+  icon: fas fa-pray
+  links:  
+    - title: 白描OCR
+      url: https://web.baimiaoapp.com/
+      logo: https://xlimage.uzero.cn/shinescan/res/shinescanicon.png
+    - title: PDF转换
+      url: https://www.alltoall.net/
+      logo: https://api.iowen.cn/favicon/alltoall.net.png
+    - title: ProcessOn
+      url: https://www.processon.com/
+      logo: https://api.iowen.cn/favicon/www.processon.com.png
+    - title: 在线PS
+      url: https://ps.gaoding.com/#/
+      logo: https://api.iowen.cn/favicon/gaoding.com.png          
+    - title: 吾道素材
+      url: https://www.woodo.cn/template/
+      logo: https://api.iowen.cn/favicon/www.woodo.cn.png
+    - title: 优品PPT
+      url: http://www.ypppt.com/
+      logo: https://api.iowen.cn/favicon/www.ypppt.com.png
+    - title: PPTMall
+      url: http://www.pptmall.net/
+      logo: https://api.iowen.cn/favicon/www.pptmall.net.png
+
+- taxonomy: 技术交流
+  icon: far fa-comments
+  links:  
+    - title: Hostloc
+      url: https://hostloc.com/
+      logo: https://api.iowen.cn/favicon/hostloc.com.png
+    - title: V2EX
+      logo: v2ex.jpg
+      url: https://www.v2ex.com/
+    - title: 恩山无线
+      url: https://www.right.com.cn/forum/forum.php
+      logo: https://api.iowen.cn/favicon/right.com.cn.png
+
+- taxonomy: 技术博客
+  icon: fas fa-blog
+  links:  
+    - title: 挖站否
+      url: https://wzfou.com/
+      logo: https://api.iowen.cn/favicon/wzfou.com.png
+    - title: 回收站
+      url: https://twovps.org/
+      logo: https://api.iowen.cn/favicon/twovps.org.png
+    - title: 小z
+      url: https://www.xiaoz.me/
+      logo: https://api.iowen.cn/favicon/www.xiaoz.me.png
+    - title: 大鸟
+      url: https://www.daniao.org/
+      logo: https://api.iowen.cn/favicon/www.daniao.org.png
+    - title: 少数派
+      url: https://sspai.com/
+      logo: https://api.iowen.cn/favicon/sspai.com.png
+    - title: Cike
+      url: https://cikeblog.com/
+      logo: https://api.iowen.cn/favicon/cikeblog.com.png
+    - title: 笨猫
+      url: https://www.nbmao.com/
+      logo: https://api.iowen.cn/favicon/nbmao.com.png
+    - title: 猫饭
+      url: https://maofun.com/
+      logo: https://api.iowen.cn/favicon/maofun.com.png
+    - title: tlanyan
+      url: https://tlanyan.me/
+      logo: https://api.iowen.cn/favicon/tlanyan.me.png
+    - title: 顶点
+      url: https://www.topide.com/
+      logo: https://api.iowen.cn/favicon/topide.com.png
+
+- taxonomy: 素材设计
+  icon: fas fa-palette
+  list:
+    - term: 图标设计
+      links:
+        - title: iOS Icon Gallery
+          logo: iosicongallery.png
+          url: http://iosicongallery.com/
+        - title: Iconsfeed
+          logo: iconsfeed.png
+          url: http://www.iconsfeed.com/
+        - title: World Vector Logo
+          logo: worldvectorlogo.png
+          url: https://worldvectorlogo.com/
+    - term: 图标素材
+      links:
+        - title: Iconfinder
+          logo: Iconfinder.png
+          url: https://www.iconfinder.com
+        - title: iconfont
+          logo: iconfont.png
+          url: http://www.iconfont.cn/
+        - title: iconmonstr
+          logo: iconmonstr.png
+          url: https://iconmonstr.com/
+        - title: flaticon
+          logo: flaticon.png
+          url: https://www.flaticon.com/
+        - title: Font Awesome Icon
+          logo: fontawesomeicon.png
+          url: https://fontawesome.com/icons/
+        - title: ion icons
+          logo: ionicons.png
+          url: http://ionicons.com/
+        - title: Icon Archive
+          logo: iconarchive.png
+          url: http://www.iconarchive.com/
+    - term: 平面素材
+      links:
+        - title: Medialoot
+          logo: Medialoot.png
+          url: https://medialoot.com/
+        - title: freepik
+          logo: freepik.png
+          url: https://www.freepik.com/
+        - title: wallhalla
+          logo: wallhalla.png
+          url: https://wallhalla.com/
+        - title: 素材中国
+          logo: sccnn.png
+          url: http://www.sccnn.com/
+    - term: 配色参考
+      links:
+        - title: flatuicolors
+          url: http://flatuicolors.com/
+          logo: flatuicolors.png
+        - title: flatuicolorpicker
+          url: http://www.flatuicolorpicker.com/
+          logo: flatuicolorpicker.png
+        - title: klart
+          url: https://klart.co/colors/
+          logo: klart.png
+        - title: webgradients
+          url: https://webgradients.com/
+          logo: webgradients.png
+        - title: Coolest
+          url: https://webkul.github.io/coolhue/
+          logo: Coolest.png
+        - title: trianglify
+          url: http://qrohlf.com/trianglify-generator/
+          logo: trianglify.png
+        - title: thedayscolor
+          url: http://www.thedayscolor.com/
+          logo: thedayscolor.png
+        - title: coolors
+          url: https://coolors.co/
+          logo: coolors.png
+        - title: khroma
+          url: http://khroma.co/generator/
+          logo: khroma.png
+        - title: Adobe Color CC
+          url: https://color.adobe.com/zh/create/color-wheel
+          logo: AdobeColorCC.png
+        - title: vanschneider
+          url: http://www.vanschneider.com/colors
+          logo: vanschneider.png
+        - title: grabient
+          url: https://www.grabient.com/
+          logo: grabient.png
+        - title: uigradients
+          url: https://uigradients.com
+          logo: uigradients.png
+
+- taxonomy: 软件探索
+  icon: fab fa-microsoft
+  links:
+    - title: 异次元
+      url: https://www.iplaysoft.com/
+      logo: https://api.iowen.cn/favicon/www.iplaysoft.com.png
+    - title: 风之遐想
+      url: https://www.fzxx.xyz/
+      logo: https://api.iowen.cn/favicon/infosecinstitute.com.png
+    - title: 小众软件
+      url: https://www.appinn.com/
+      logo: appinn.png
+    - title: 果核剥壳
+      url: https://www.ghxi.com/
+      logo: https://api.iowen.cn/favicon/www.ghxi.com.png
+    - title: YPOJIE
+      url: https://www.ypojie.com/
+      logo: https://api.iowen.cn/favicon/www.ypojie.com.png
+    - title: 荔枝数码
+      url: https://lizhi.shop/
+      logo: https://www.lizhi.io/wp-content/themes/lizhiwptheme/res/images/apple-touch-icon.png
+    - title: SoftUFO
+      url: https://www.softufo.com/
+      logo: https://api.iowen.cn/favicon/www.softufo.com.png
+
+
+- taxonomy: 其他工具
+  icon: fas fa-wrench
+  links:
+    - title: goqr
+      url: http://goqr.me/
+      logo: https://goqr.me/_Resources/Static/Packages/GoQrMe.Ui/Images/qr_default.png
+    - title: すごい名前生成器
+      url: https://namegen.jp/
+      logo: https://api.iowen.cn/favicon/namegen.jp.png
+    - title: Locale-Emulator
+      url: https://pooi.moe/Locale-Emulator/
+      logo: https://api.iowen.cn/favicon/pooi.moe.png
+    - title: Rainy Mood
+      url: https://www.rainymood.com/
+      logo: https://api.iowen.cn/favicon/www.rainymood.com.png
+    - title: Awesome design systems
+      url: https://github.com/alexpate/awesome-design-systems
+      logo: awesome_design_systems.png     
+
+- taxonomy: 日语资讯
+  icon: far fa-newspaper
+  links:
+    - title: 人民網日本語版
+      url: http://j.people.com.cn/
+      logo: rmw.png
+    - title: NHK ラジオニュース
+      url: https://www.nhk.or.jp/radionews/
+      logo: https://api.iowen.cn/favicon/www.nhk.or.jp.png
+    - title: 日テレNEWS24
+      url: https://www.news24.jp/index.html
+      logo: https://api.iowen.cn/favicon/www.news24.jp.png
+
+#- taxonomy: 
+#  icon: far fa-star
+#  links:  
+#    - title: 
+#      url: 
+#      logo: https://api.iowen.cn/favicon/.png  
+#    - title: 
+#      url: 
+#      logo: https://api.iowen.cn/favicon/.png  
