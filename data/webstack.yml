@@ -13,7 +13,7 @@
       logo: https://favicon.mochakira.workers.dev/?domain=www.vercel.com
     - title: Greasyfork
       url: https://greasyfork.org/zh-CN/
-      logo: https://greasyfork.org/vite/assets/blacklogo96-e0c2c761.png
+      logo: https://favicon.mochakira.workers.dev/?domain=greasyfork.org
     - title: Ping Test
       url: http://ping.pe/
       logo: https://favicon.mochakira.workers.dev/?domain=ping.com
@@ -29,10 +29,10 @@
       logo: https://favicon.mochakira.workers.dev/?domain=www.aliyun.com
     - title: UCloud
       url: https://passport.ucloud.cn/#login
-      logo: https://favicon.mochakira.workers.dev/?domain=www.ucloud.cn.png
+      logo: https://favicon.mochakira.workers.dev/?domain=www.ucloud.cn
     - title: 天翼云
       url: https://www.ctyun.cn/h5/auth/"
-      logo: https://favicon.mochakira.workers.dev/?domain=www.ctyun.cn.png
+      logo: https://favicon.mochakira.workers.dev/?domain=www.ctyun.cn
     - title: 华为云
       url: https://auth.huaweicloud.com/authui/login.html#/login
       logo: https://favicon.mochakira.workers.dev/?domain=www.huawei.com
@@ -41,7 +41,7 @@
       logo: https://favicon.mochakira.workers.dev/?domain=www.jdcloud.com
     - title: 又拍云 
       url: https://console.upyun.com/login/
-      logo: https://favicon.mochakira.workers.dev/?domain=upyun.com/.png
+      logo: https://favicon.mochakira.workers.dev/?domain=upyun.com
     - title: 七牛云
       url: https://portal.qiniu.com/signin
       logo: https://favicon.mochakira.workers.dev/?domain=qiniu.com
@@ -54,7 +54,7 @@
   links: 
     - title: DNSPod
       url: https://www.dnspod.cn/login
-      logo: https://favicon.mochakira.workers.dev/?domain=www.dnspod.cn.png
+      logo: https://favicon.mochakira.workers.dev/?domain=www.dnspod.cn
     - title: NameSilo
       url: https://www.namesilo.com/login
       logo: https://favicon.mochakira.workers.dev/?domain=www.namesilo.com
@@ -70,13 +70,13 @@
       logo: https://static.deepl.com/img/logo/DeepL_Logo_darkBlue_v2.svg
     - title: 沪江小D
       url: https://dict.hjenglish.com/app/trans
-      logo: https://res.hjfile.cn/tool/dict.hjenglish.com/img/logo@2x-e5fcc.png
+      logo: https://favicon.mochakira.workers.dev/?domain=dict.hjenglish.com
     - title: 有道翻译
       url: http://fanyi.youdao.com/
       logo: https://favicon.mochakira.workers.dev/?domain=youdao.com
     - title: Google翻译
       url: https://translate.google.cn/
-      logo: https://favicon.mochakira.workers.dev/?domain=translate.google.cn.png
+      logo: https://favicon.mochakira.workers.dev/?domain=translate.google.cn
     - title: 腾讯翻译君
       url: https://fanyi.qq.com/
       logo: https://favicon.mochakira.workers.dev/?domain=fanyi.qq.com
@@ -85,19 +85,19 @@
       logo: https://favicon.mochakira.workers.dev/?domain=www.fanyigou.com
     - title: weblio
       url: https://www.weblio.jp/
-      logo: https://favicon.mochakira.workers.dev/?domain=www.weblio.jp.png
+      logo: https://favicon.mochakira.workers.dev/?domain=www.weblio.jp
     - title: 語源由来辞典
       url: https://gogen-yurai.jp/
-      logo: https://favicon.mochakira.workers.dev/?domain=gogen-yurai.jp.png
+      logo: https://favicon.mochakira.workers.dev/?domain=gogen-yurai.jp
     - title: 日本語文章校正
       url: https://so-zou.jp/web-app/text/proofreading/
-      logo: https://favicon.mochakira.workers.dev/?domain=so-zou.jp.png
+      logo: https://favicon.mochakira.workers.dev/?domain=so-zou.jp
     - title: NLT检索
       url: https://tsukubawebcorpus.jp/search/
-      logo: https://favicon.mochakira.workers.dev/?domain=tsukubawebcorpus.jp.png
+      logo: https://favicon.mochakira.workers.dev/?domain=tsukubawebcorpus.jp
     - title: 用例.jp
       url: http://yourei.jp/
-      logo: https://favicon.mochakira.workers.dev/?domain=yourei.jp.png
+      logo: https://favicon.mochakira.workers.dev/?domain=yourei.jp
 
 - taxonomy: 信息安全
   icon: fas fa-shield-alt
@@ -116,7 +116,7 @@
       logo: news.png
     - title: 奇安信漏洞库
       url: https://ti.qianxin.com/
-      logo: https://ti.qianxin.com/microapps/portal-ti/static/img/sandbox_s.5c6c5a9.png
+      logo: https://favicon.mochakira.workers.dev/?domain=ti.qianxin.com
     - title: 阿里云漏洞库
       url: https://avd.aliyun.com/
       logo: https://favicon.mochakira.workers.dev/?domain=avd.aliyun.com  
@@ -125,10 +125,10 @@
       logo: cve.png
     - title: NVD漏洞库
       url: https://nvd.nist.gov/vuln/search
-      logo: https://favicon.mochakira.workers.dev/?domain=nist.gov.png  
+      logo: https://favicon.mochakira.workers.dev/?domain=nist.gov
     - title: 标准网
       url: https://www.biaozhun.org/
-      logo: https://favicon.mochakira.workers.dev/?domain=www.biaozhun.org.png  
+      logo: https://favicon.mochakira.workers.dev/?domain=www.biaozhun.org
     - title: 中华人民共和国工业和信息化部
       url: https://wap.miit.gov.cn/index.html
       logo: zf.png  
@@ -165,22 +165,22 @@
       logo: https://favicon.mochakira.workers.dev/?domain=www.runoob.com
     - title: W3School
       url: https://www.w3school.com.cn/
-      logo: https://favicon.mochakira.workers.dev/?domain=www.w3school.com.cn.png
+      logo: https://favicon.mochakira.workers.dev/?domain=www.w3school.com.cn
     - title: 书栈网
       url: https://www.bookstack.cn/
-      logo: https://favicon.mochakira.workers.dev/?domain=www.bookstack.cn.png
+      logo: https://favicon.mochakira.workers.dev/?domain=www.bookstack.cn
     - title: CISSP笔记
       url: https://firmianay.gitbook.io/cissp-notes/
       logo: https://app.gitbook.com/public/images/icon-512.png
     - title: ISC2
       url: https://www.isc2.org/
-      logo: https://favicon.mochakira.workers.dev/?domain=www.isc2.org.png  
+      logo: https://favicon.mochakira.workers.dev/?domain=www.isc2.org
     - title: ISACA
       url: https://www.isaca.org/
-      logo: https://favicon.mochakira.workers.dev/?domain=www.isaca.org.png  
+      logo: https://favicon.mochakira.workers.dev/?domain=www.isaca.org
     - title: Comptia
       url: https://www.comptia.org/
-      logo: https://favicon.mochakira.workers.dev/?domain=www.comptia.org.png  
+      logo: https://favicon.mochakira.workers.dev/?domain=www.comptia.org 
     - title: CertMike
       url: https://www.certmike.com/
       logo: https://favicon.mochakira.workers.dev/?domain=www.certmike.com  
@@ -193,7 +193,7 @@
       logo: https://xlimage.uzero.cn/shinescan/res/shinescanicon.png
     - title: PDF转换
       url: https://www.alltoall.net/
-      logo: https://favicon.mochakira.workers.dev/?domain=alltoall.net.png
+      logo: https://favicon.mochakira.workers.dev/?domain=alltoall.net
     - title: ProcessOn
       url: https://www.processon.com/
       logo: https://favicon.mochakira.workers.dev/?domain=www.processon.com
@@ -202,13 +202,13 @@
       logo: https://favicon.mochakira.workers.dev/?domain=gaoding.com          
     - title: 吾道素材
       url: https://www.woodo.cn/template/
-      logo: https://favicon.mochakira.workers.dev/?domain=www.woodo.cn.png
+      logo: https://favicon.mochakira.workers.dev/?domain=www.woodo.cn
     - title: 优品PPT
       url: http://www.ypppt.com/
       logo: https://favicon.mochakira.workers.dev/?domain=www.ypppt.com
     - title: PPTMall
       url: http://www.pptmall.net/
-      logo: https://favicon.mochakira.workers.dev/?domain=www.pptmall.net.png
+      logo: https://favicon.mochakira.workers.dev/?domain=www.pptmall.net
 
 - taxonomy: 技术交流
   icon: far fa-comments
@@ -221,7 +221,7 @@
       url: https://www.v2ex.com/
     - title: 恩山无线
       url: https://www.right.com.cn/forum/forum.php
-      logo: https://favicon.mochakira.workers.dev/?domain=right.com.cn.png
+      logo: https://favicon.mochakira.workers.dev/?domain=right.com.cn
 
 - taxonomy: 技术博客
   icon: fas fa-blog
@@ -231,13 +231,13 @@
       logo: https://favicon.mochakira.workers.dev/?domain=wzfou.com
     - title: 回收站
       url: https://twovps.org/
-      logo: https://favicon.mochakira.workers.dev/?domain=twovps.org.png
+      logo: https://favicon.mochakira.workers.dev/?domain=twovps.org
     - title: 小z
       url: https://www.xiaoz.me/
-      logo: https://favicon.mochakira.workers.dev/?domain=www.xiaoz.me.png
+      logo: https://favicon.mochakira.workers.dev/?domain=www.xiaoz.me
     - title: 大鸟
       url: https://www.daniao.org/
-      logo: https://favicon.mochakira.workers.dev/?domain=www.daniao.org.png
+      logo: https://favicon.mochakira.workers.dev/?domain=www.daniao.org
     - title: 少数派
       url: https://sspai.com/
       logo: https://favicon.mochakira.workers.dev/?domain=sspai.com
@@ -252,7 +252,7 @@
       logo: https://favicon.mochakira.workers.dev/?domain=maofun.com
     - title: tlanyan
       url: https://tlanyan.me/
-      logo: https://favicon.mochakira.workers.dev/?domain=tlanyan.me.png
+      logo: https://favicon.mochakira.workers.dev/?domain=tlanyan.me
     - title: 顶点
       url: https://www.topide.com/
       logo: https://favicon.mochakira.workers.dev/?domain=topide.com
@@ -384,10 +384,10 @@
       logo: https://goqr.me/_Resources/Static/Packages/GoQrMe.Ui/Images/qr_default.png
     - title: すごい名前生成器
       url: https://namegen.jp/
-      logo: https://favicon.mochakira.workers.dev/?domain=namegen.jp.png
+      logo: https://favicon.mochakira.workers.dev/?domain=namegen.jp
     - title: Locale-Emulator
       url: https://pooi.moe/Locale-Emulator/
-      logo: https://favicon.mochakira.workers.dev/?domain=pooi.moe.png
+      logo: https://favicon.mochakira.workers.dev/?domain=pooi.moe
     - title: Rainy Mood
       url: https://www.rainymood.com/
       logo: https://favicon.mochakira.workers.dev/?domain=www.rainymood.com
@@ -403,10 +403,10 @@
       logo: rmw.png
     - title: NHK ラジオニュース
       url: https://www.nhk.or.jp/radionews/
-      logo: https://favicon.mochakira.workers.dev/?domain=www.nhk.or.jp.png
+      logo: https://favicon.mochakira.workers.dev/?domain=www.nhk.or.jp
     - title: 日テレNEWS24
       url: https://www.news24.jp/index.html
-      logo: https://favicon.mochakira.workers.dev/?domain=www.news24.jp.png
+      logo: https://favicon.mochakira.workers.dev/?domain=www.news24.jp
 
 #- taxonomy: 
 #  icon: far fa-star
